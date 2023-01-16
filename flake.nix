@@ -5,6 +5,7 @@
     nix-godot.url = "github:Pylgos/nix-godot";
     nixpkgs.follows = "nix-godot/nixpkgs";
     godot-camera-branch.url = "github:Pylgos/godot/camera";
+    godot-camera-branch.flake = false;
   };
 
   outputs = { std, self, ... } @ inputs: std.growOn
