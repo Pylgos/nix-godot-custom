@@ -13,4 +13,4 @@ jobs:
       with:
         name: pylgos-godot-custom
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
-    - run: nix build -L .#godot-camera-branch
+    - run: nix build -L .#godot-camera-branch .#godot-camera-branch.godot-cpp
