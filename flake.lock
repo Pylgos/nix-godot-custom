@@ -167,11 +167,11 @@
     "godot-camera-branch": {
       "flake": false,
       "locked": {
-        "lastModified": 1676639327,
-        "narHash": "sha256-ccf/tm8bVQNh0+72RMrQJQkSv6FKq63WUmFquFMmGsE=",
+        "lastModified": 1676646612,
+        "narHash": "sha256-c1xidBhSa5/9zk/hugROh6sb86X5CycslJgmnxFQDWc=",
         "owner": "Pylgos",
         "repo": "godot",
-        "rev": "8995f99fc331570da596fdc11830f473ec961043",
+        "rev": "3a6c85fbc7fcc56c02ca8d0365728d60bd442b45",
         "type": "github"
       },
       "original": {
